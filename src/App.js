@@ -12,12 +12,12 @@ function App() {
             4000
           </li>
           <li>
-            <strong>Views: </strong>
-            4000
+            <strong>Downloads: </strong>
+            300
           </li>
           <li>
-            <strong>Views: </strong>
-            4000
+            <strong>Likes: </strong>
+            400
           </li>
         </ul>
       </div>
